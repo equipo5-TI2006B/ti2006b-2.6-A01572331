@@ -1,4 +1,6 @@
-# TI2006B Capstone Project Repository
+# TI2006B - Jessica Salazar
+# Student
+# 06/11/26
 
 Template for a reproducible business-intelligence, analytics, data-engineering, or machine-learning capstone project.
 
